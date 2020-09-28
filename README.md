@@ -1,5 +1,5 @@
-### Hello
-# My name is Mihai, and i'am 14 years old.👋
+# Hello
+### My name is Mihai, and i'am 14 years old.👋
 
 <!--
 **He1utu/He1utu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
