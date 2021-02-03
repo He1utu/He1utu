@@ -7,4 +7,5 @@
 
 ---
 
-<a href="https://ro.wikipedia.org/wiki/Microsoft_Windows" title="Drupal"><img src="icons/windows.png" /></a>
+**operating system**
+[![Windows](icons/windows.png)](https://www.drupal.org/u/hussainweb)
