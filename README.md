@@ -13,6 +13,7 @@
 ![Linux](icons/linux.png)
 
 **Tools:**
+
 ![Git](icons/git.png)
 ![VSC](icons/vscode.png)
 
