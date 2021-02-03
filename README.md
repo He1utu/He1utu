@@ -12,8 +12,7 @@
 ![Windows](icons/windows.png)
 ![Linux](icons/linux.png)
 
-**Tools:**
+**Currently working with:**
 
-![Git](icons/git.png)
-![VSC](icons/vscode.png)
+<a href="https://git-scm.com" title="Git"><img src="icons/git.png" /></a>
 
