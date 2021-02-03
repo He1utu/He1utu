@@ -10,4 +10,5 @@
 **Operating system:**
 
 ![Windows](icons/windows.png)
+![Linux](icons/linux.png)
 
