@@ -9,4 +9,4 @@
 
 **Operating system:**
 
-[![Windows](icons/windows.png)]
+(icons/windows.png)]
