@@ -7,5 +7,6 @@
 
 ---
 
-**operating system**
+**operating system:**
+
 [![Windows](icons/windows.png)](https://www.drupal.org/u/hussainweb)
