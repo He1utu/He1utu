@@ -3,6 +3,7 @@
 ### 🤵 About Me
 - 🤔 I use 
 - 🌱 I’m currently learning:
+<br>
 &ensp;![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;
 - 💬 Talk to me about anime, games & movies.
 - 😄 Pronouns: He/His/Him.
