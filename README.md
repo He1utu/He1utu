@@ -2,7 +2,7 @@
 
 ### 🤵 About Me
 - 😛 i'm 14 years old
-- 🌱 I’m currently learning: ReactJS, VueJS and TypeScript.
+- 🌱 I’m currently learning: ReactJS
 - 🎶 I like to write codes on music
 
 ---
